@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import org.firstinspires.ftc.teamcode.core.Input;
 import org.firstinspires.ftc.teamcode.core.Movement;
 
-@TeleOp(name = "Empty OpMode", group = "Linear OpMode")
+@TeleOp(name = "Testing TeleOp", group = "Linear OpMode")
 public class TestTeleOp extends LinearOpMode {
 
     @Override
