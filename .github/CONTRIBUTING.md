@@ -1,7 +1,3 @@
-# Contributing Code to FTC Team 12845
-
-Thank you for helping write the software for our robot! To keep our `main` code stable, reliable, and competition-ready, all programmers must follow this workflow.
-
 ## 🚀 The 4-Step Git Workflow
 
 ### 1. Create a Branch
