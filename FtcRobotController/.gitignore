@@ -1,0 +1,22 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Android Studio/IntelliJ files
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+.navigation/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Device/Emulator files
+captures/
