@@ -1,14 +1,14 @@
 package org.firstinspires.ftc.teamcode;
 
-import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 import org.firstinspires.ftc.teamcode.core.Input;
+import org.firstinspires.ftc.teamcode.core.MeteorOpMode;
 import org.firstinspires.ftc.teamcode.core.Movement;
 
 @TeleOp(name = "Testing TeleOp", group = "Linear OpMode")
-public class TestTeleOp extends LinearOpMode {
+public class TestTeleOp extends MeteorOpMode {
 
     @Override
     public void runOpMode() {
